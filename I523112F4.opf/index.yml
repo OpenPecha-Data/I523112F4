@@ -1,0 +1,9 @@
+id: dc04fd5b2af34b889987fef8a285d2a9
+annotation_type: index
+revision: '00001'
+annotations:
+  672ad332a71b45dfbc95e83db536dcf0:
+    base: fF866.txt
+    span:
+      start: 0
+      end: 220
